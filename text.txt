@@ -1,0 +1,2 @@
+Testing fgets
+line
